@@ -2,6 +2,8 @@ import socket
 import threading
 import datetime
 
+# add comments before handing in
+
 HOST = "127.0.0.1"  # The server's hostname or IP address
 PORT = 65432  # The port used by the server
 max_clients = 3

@@ -1,8 +1,8 @@
 ## Usage 
 
-`$ python3 2server.py` to run the server.
+`$ python3 Server.py` to run the server.
 
-`% python3 client_.py` to run as a client.
+`% python3 CLient.py` to run as a client.
 
 ## Commands
 

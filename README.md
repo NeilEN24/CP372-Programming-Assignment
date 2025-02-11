@@ -2,7 +2,7 @@
 
 `$ python3 Server.py` to run the server.
 
-`% python3 CLient.py` to run as a client.
+`% python3 Client.py` to run as a client.
 
 ## Commands
 

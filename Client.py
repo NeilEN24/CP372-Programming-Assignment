@@ -5,6 +5,9 @@ HOST = "127.0.0.1"
 PORT = 65432
 ENCODING = "utf-8"
 
+'''Client.py is the Python program that allows a user to 
+connect to a locally created TCP server. (Server.Py)'''
+
 #Yacquub Nur  - 210628360
 #Neil Narayan - 169029177
 

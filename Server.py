@@ -4,6 +4,10 @@ import sys
 import threading
 from datetime import datetime
 
+'''Server.py is the python program that creates a local TCP server 
+that allows for 3 Clients to connect at once and preform actions 
+such as returning input from the client, status of each client, file retrieval/read.'''
+
 #Yacquub Nur  - 210628360
 #Neil Narayan - 169029177
 

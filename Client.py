@@ -5,6 +5,8 @@ HOST = "127.0.0.1"
 PORT = 65432
 ENCODING = "utf-8"
 
+#Yacquub Nur  - 210628360
+#Neil Narayan - 169029177
 
 class Client:
 

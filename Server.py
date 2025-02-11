@@ -4,7 +4,8 @@ import sys
 import threading
 from datetime import datetime
 
-
+#Yacquub Nur  - 210628360
+#Neil Narayan - 169029177
 
 HOST = "127.0.0.1"
 PORT = 65432
@@ -117,8 +118,6 @@ class Server:
                 message = sock.recv(1024).decode(ENCODING)
                 if not message:
                     break
-
-                message = message.lower()
 
                 if message == "exit":
                     connected = False
